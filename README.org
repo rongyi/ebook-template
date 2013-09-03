@@ -1,0 +1,4 @@
+* About
+  You can crop pdf file or change screen orientation to make PDF format file more readable in your Kindle. But when you care too much about the layout, you should reformat the book for your Kindle. This is a template for generating 6" PDF file using Latex.
+
+  You need xelatex be fore using this template.
